@@ -2,12 +2,13 @@ name: VisibleClimate
 favicon: null
 layout_spectrum: 0.9947138277348131
 typography_spectrum: 0.9513966275844723
+title: Visible Climate
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-70816669-1
   facebook: null
   twitter: null
 opengraph:
