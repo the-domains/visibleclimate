@@ -1,7 +1,7 @@
 name: VisibleClimate
 favicon: null
-layout_spectrum: 0.9947138277348131
-typography_spectrum: 0.9513966275844723
+layout_spectrum: 1
+typography_spectrum: 0.66108
 title: Visible Climate
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#FBB9BF'
     - '#E376B7'
   brandStrength: 0.3581194595899433
-  lightness: 0.8261263254098594
-  saturation: 0.176213193917647
-  rhythmicContrast: 0.9032140951603651
+  lightness: 0.875
+  saturation: 0.9375
+  rhythmicContrast: 0.75
 purpose: []
