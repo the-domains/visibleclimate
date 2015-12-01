@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Visible Climate]]></title>
         <description><![CDATA[Visible Climate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://visibleclimate.fi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 14:24:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Dec 2015 00:21:34 GMT</lastBuildDate>
+        <atom:link href="http://visibleclimate.fi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Facts of Life]]></title>
+            <description><![CDATA[<article><h1>Facts of Life</h1><p>Finnish environmental educator Marjo Priha from Korkeasaari Zoo.</p></article>]]></description>
+            <link>http://visibleclimate.fi/facts-of-life/index.html</link>
+            <guid isPermaLink="false">65aaf028-3934-4076-b34a-f2b3f7de149f</guid>
+            <pubDate>Tue, 01 Dec 2015 00:20:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sebastian]]></title>
             <description><![CDATA[<article><h1>Sebastian</h1><p>Sebastian co-organized this year's People's Climate March in Helsinki. He is a prime example of how you don't need anything but a can-do attitude to make great things happen! </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8eac3c94-c7d8-4b59-a173-af374f595c3d.jpg"></article>]]></description>
-            <link>undefinedsebastian/index.html</link>
+            <link>http://visibleclimate.fi/sebastian/index.html</link>
             <guid isPermaLink="false">a733bae8-0479-4626-bda1-e2c5decef934</guid>
             <pubDate>Mon, 30 Nov 2015 14:24:23 GMT</pubDate>
         </item>
