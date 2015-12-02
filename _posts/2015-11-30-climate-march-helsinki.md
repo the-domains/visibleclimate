@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: "The people that made the People's Climate March"
-datePublished: '2015-11-30T14:46:07.045Z'
-dateModified: '2015-11-30T14:45:49.073Z'
+datePublished: '2015-12-02T01:14:34.138Z'
+dateModified: '2015-12-01T01:08:32.392Z'
 title: Climate March Helsinki
 author: []
+sourcePath: _posts/2015-11-30-climate-march-helsinki.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-30-climate-march-helsinki.md
-published: true
-_type: Blurb
+url: climate-march-helsinki/index.html
+_type: Article
 
 ---
 People's Climate March 2015 - massive thanks to all the organizers! We heard some amazing speeches from @pekka.haavisto @villeniinisto Kimmo Tiilikainen among others and the event in Helsinki had 1500-2000 participants. This photo was sent to Paris to be shown at the climate summit.
