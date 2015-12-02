@@ -2,21 +2,28 @@
     <channel>
         <title><![CDATA[Visible Climate]]></title>
         <description><![CDATA[Visible Climate]]></description>
-        <link>http://visibleclimate.fi/</link>
+        <link>https://thegrid.ai/visibleclimate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 00:21:34 GMT</lastBuildDate>
-        <atom:link href="http://visibleclimate.fi/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Dec 2015 01:14:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/visibleclimate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Facts of Life]]></title>
-            <description><![CDATA[<article><h1>Facts of Life</h1><p>Finnish environmental educator Marjo Priha from Korkeasaari Zoo.</p></article>]]></description>
-            <link>http://visibleclimate.fi/facts-of-life/index.html</link>
+            <description><![CDATA[<article><h1>Facts of Life</h1><p>Finnish environmental educator Marjo Priha from Korkeasaari Zoo wants to teach their audiences the facts of life.</p></article>]]></description>
+            <link>https://thegrid.ai/visibleclimate/facts-of-life/index.html</link>
             <guid isPermaLink="false">65aaf028-3934-4076-b34a-f2b3f7de149f</guid>
             <pubDate>Tue, 01 Dec 2015 00:20:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Climate March Helsinki]]></title>
+            <description><![CDATA[<article><h1>Climate March Helsinki</h1><p>People's Climate March 2015 - massive thanks to all the organizers! We heard some amazing speeches from @pekka.haavisto @villeniinisto Kimmo Tiilikainen among others and the event in Helsinki had 1500-2000 participants. This photo was sent to Paris to be shown at the climate summit.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8163270-8e4d-4150-b714-d290bfc71fe9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/visibleclimate/climate-march-helsinki/index.html</link>
+            <guid isPermaLink="false">f4488988-073c-484a-9e79-07abcae0ddeb</guid>
+            <pubDate>Wed, 02 Dec 2015 01:14:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sebastian]]></title>
             <description><![CDATA[<article><h1>Sebastian</h1><p>Sebastian co-organized this year's People's Climate March in Helsinki. He is a prime example of how you don't need anything but a can-do attitude to make great things happen! </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8eac3c94-c7d8-4b59-a173-af374f595c3d.jpg"></article>]]></description>
-            <link>http://visibleclimate.fi/sebastian/index.html</link>
+            <link>https://thegrid.ai/visibleclimate/sebastian/index.html</link>
             <guid isPermaLink="false">a733bae8-0479-4626-bda1-e2c5decef934</guid>
             <pubDate>Mon, 30 Nov 2015 14:24:23 GMT</pubDate>
         </item>
